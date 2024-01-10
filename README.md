@@ -41,5 +41,5 @@ You can select tests to run or skip using tags by passing `--env grepTags=...` v
 ```
 
 ## Owners/Maintainers
-If there are any questions or concerns, reach out to the ACM QE CICD Team.
+If there are any questions or concerns, reach out to the ACM QE CI Team.
 - [Vincent Boulos](https://github.com/vboulos)
